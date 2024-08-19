@@ -14,8 +14,7 @@ SECRET_KEY = 'wy#+(&hxnf5$hd=wx)0mffwknu5h+@=u7&e%e%v8nlj!bd*4)l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
-# ALLOWED_HOSTS = ['yourdomain.com', 'www.yourdomain.com', 'your-ip-address']
+ALLOWED_HOSTS = ['saniyachaskar.github.io']
 
 
 # Application definition
